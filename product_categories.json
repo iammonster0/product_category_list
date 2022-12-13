@@ -1,0 +1,32 @@
+{
+  "response": [
+    {
+      "category": [
+        {
+          "product_category": "Oyun Konsolları",
+          "image": "https://user-images.githubusercontent.com/93950694/207305226-c60224cb-9512-4d5e-8b83-a5a1de3b499f.png"
+        },
+        {
+          "product_category": "Laptoplar",
+          "image": "https://user-images.githubusercontent.com/93950694/207305226-c60224cb-9512-4d5e-8b83-a5a1de3b499f.png"
+        },
+        {
+          "product_category": "Spor&Outdoor",
+          "image": "https://user-images.githubusercontent.com/93950694/207305226-c60224cb-9512-4d5e-8b83-a5a1de3b499f.png"
+        },
+        {
+          "product_category": "VR Gözlükleri",
+          "image": "https://user-images.githubusercontent.com/93950694/207305226-c60224cb-9512-4d5e-8b83-a5a1de3b499f.png"
+        },
+        {
+          "product_category": "Oyunlar",
+          "image": "https://user-images.githubusercontent.com/93950694/207305226-c60224cb-9512-4d5e-8b83-a5a1de3b499f.png"
+        },
+        {
+          "product_category": "Giyim",
+          "image": "https://user-images.githubusercontent.com/93950694/207305226-c60224cb-9512-4d5e-8b83-a5a1de3b499f.png"
+        }
+      ]
+    }
+  ]
+}
