@@ -5,26 +5,32 @@
         {
           "product_category": "Oyun Konsolları",
           "image": "https://user-images.githubusercontent.com/93950694/207370919-117b27c0-da70-432c-849e-250e614f28de.png"
+          "id": 0
         },
         {
           "product_category": "Laptoplar",
           "image": "https://user-images.githubusercontent.com/93950694/207331534-a3ccc986-2f56-45db-a289-e7ea994ddab2.png"
+          "id": 1
         },
         {
           "product_category": "Spor&Outdoor",
           "image": "https://user-images.githubusercontent.com/93950694/207370924-eeb4f7aa-9328-499b-8f3e-7eb5a7333bad.png"
+          "id": 2
         },
         {
           "product_category": "VR Gözlükleri",
           "image": "https://user-images.githubusercontent.com/93950694/207331545-d7ed15f1-36da-404b-84f6-b0ed45792480.png"
+          "id": 3
         },
         {
           "product_category": "Oyunlar",
           "image": "https://user-images.githubusercontent.com/93950694/207370913-852d4376-3b20-4775-a6b1-0080afd81fe2.png"
+          "id": 4
         },
         {
           "product_category": "Giyim",
           "image": "https://user-images.githubusercontent.com/93950694/207370910-3074a581-62e6-42e2-8473-4aa6f54ebf77.png"
+          "id": 5
         }
       ]
     }
