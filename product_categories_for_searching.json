@@ -1,1 +1,61 @@
-
+{
+  "productCategories": [
+    {
+      "productCategory": "Elektronik",
+      "subcategories": [
+        {
+          "subCategory": "Oyun Konsolları",
+          "subCategory2": [
+            {
+              "name": "Playstation"
+            },
+            {
+              "name": "Xbox"
+            },
+            {
+              "name": "Nintendo"
+            },
+            {
+              "name": "Diğer"
+            }
+          ]
+        },
+        {
+          "subCategory": "Laptoplar"
+        },
+        {
+          "subCategory": "Gaming Laptoplar"
+        },
+        {
+          "subCategory": "Kameralar"
+        },
+        {
+          "subCategory": "VR&AR"
+        },
+        {
+          "subCategory": "Diğer"
+        }
+      ]
+    },
+    {
+      "productCategory": "Outdoor&Spor",
+      "subcategories": [
+        {
+          "subCategory": "Kamp Malzemeleri"
+        },
+        {
+          "subCategory": "Kayak Malzemeleri"
+        },
+        {
+          "subCategory": "Bisikletler"
+        },
+        {
+          "subCategory": "Balıkçılık"
+        },
+        {
+          "subCategory": "Diğer"
+        }
+      ]
+    }
+  ]
+}
